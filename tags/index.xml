@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on mattrattus</title>
+    <link>https://mattrattus.github.io/tags/</link>
+    <description>Recent content in Tags on mattrattus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Nov 2021 15:11:03 +0100</lastBuildDate><atom:link href="https://mattrattus.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>admin</title>
+      <link>https://mattrattus.github.io/tags/admin/</link>
+      <pubDate>Mon, 01 Nov 2021 15:11:03 +0100</pubDate>
+      
+      <guid>https://mattrattus.github.io/tags/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debian</title>
+      <link>https://mattrattus.github.io/tags/debian/</link>
+      <pubDate>Mon, 01 Nov 2021 15:11:03 +0100</pubDate>
+      
+      <guid>https://mattrattus.github.io/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://mattrattus.github.io/tags/github/</link>
+      <pubDate>Mon, 01 Nov 2021 15:11:03 +0100</pubDate>
+      
+      <guid>https://mattrattus.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>https://mattrattus.github.io/tags/server/</link>
+      <pubDate>Mon, 01 Nov 2021 15:11:03 +0100</pubDate>
+      
+      <guid>https://mattrattus.github.io/tags/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://mattrattus.github.io/tags/ubuntu/</link>
+      <pubDate>Mon, 01 Nov 2021 15:11:03 +0100</pubDate>
+      
+      <guid>https://mattrattus.github.io/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
